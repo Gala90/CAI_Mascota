@@ -1,0 +1,7 @@
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\bin\Debug\Mascota.exe.config
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\bin\Debug\Mascota.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\bin\Debug\Mascota.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\obj\Debug\Mascota.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\obj\Debug\Mascota.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\obj\Debug\Mascota.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Mascota\Mascota\Mascota\obj\Debug\Mascota.pdb
